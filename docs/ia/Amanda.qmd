@@ -1,0 +1,6 @@
+---
+title: "Amanda"
+format: html
+---
+
+Colocar aqui o que for sendo consultado em ia, com o prompt + qual ia foi usada.

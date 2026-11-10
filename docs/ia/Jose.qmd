@@ -1,0 +1,9 @@
+---
+title: "Jose"
+format: html
+---
+
+Colocar aqui o que for sendo consultado em ia, com o prompt + qual ia foi usada.
+
+Copilot: Para entender o por que de da pasta docs não estar sendo versionada.
+prompt: "como descobrir o por que de alguma pasta no R não estar indo para a aba de commit do git?"
