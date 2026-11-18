@@ -1,0 +1,10 @@
+---
+title: "rascunhojoao"
+output: html_document
+---
+
+git checkout main git pull
+
+git branch -d jose/teste-git
+
+git fetch --prune
