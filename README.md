@@ -20,7 +20,8 @@ Acessado pela última vez em: 10/11/2026.
 
 ## Como reproduzir
 
-(vazio por enquanto)
+1. Rodar `instalar_pacotes.R` (uma vez).
+2.
 
 ## Declaração de uso de IA
 
