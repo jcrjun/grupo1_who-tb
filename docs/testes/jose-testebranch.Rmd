@@ -3,4 +3,16 @@ title: "jose-testebranch"
 output: html_document
 ---
 
-aqui testando como funciona as branch
+aqui testando como funciona as branch -\> deu tudo certo.
+
+# Anotações:
+
+Criar uma branch pra cada tarefa, depois atualizar os issues q é meio q as metas do q queremos fazer. Fazer merge só dps que terminar as tarefas das respectivas branchs.
+
+depois de criar uma branch e ela for de merge, usar os comandos
+
+`git checkout main git pull`
+
+`git branch -d jose/teste-git`
+
+`git fetch --prune`
