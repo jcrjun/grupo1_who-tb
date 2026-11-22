@@ -1,0 +1,58 @@
+---
+title: "relatório"
+author: "Amanda Cyntia Lima Fonseca Rodrigues, Gustavo Spier Fagundes, João Vitor Faria Cardoso, José Carlos Rodrigues Junior."
+lang: pt-BR
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+#quando o P2 tiver o arquivo de referências e o estilo APA na pasta relatorio/, descomentar as duas linhas abaixo:
+# bibliography: referencias.bib
+# csl: apa.csl
+---
+
+```{r}
+#| label: setup
+#| include: false
+#| eval: false
+#ARQUIVO AQUI QUANDO TIVER: carregar pacotes, as funções do app e o banco tratado. Quando os dados existirem, trocar "eval: false" por
+# "eval: true" (ou apagar essa linha).
+
+# library(ggplot2); library(ggiraph); library(knitr)
+# source("../app/R/funcoes_dados.R",    encoding = "UTF-8")
+# source("../app/R/funcoes_graficos.R", encoding = "UTF-8")
+# dados  <- readRDS("../app/dados/who_tb_tratado.rds")
+# resumo <- calcular_resumo(dados)
+```
+
+# Introdução {#sec-introducao}
+
+(Contexto da tuberculose, problema e objetivos. Texto do P2.)
+
+Onde entrar um número do banco, deixar um marcador, por exemplo
+[[N_PAISES]]. Depois ele vira um trecho de código que o R preenche
+sozinho, sem digitar nada à mão.
+
+# Materiais e Métodos {#sec-metodos}
+
+(Descrição do banco, pré-processamento e técnicas estatísticas.)
+
+# Resultados e Discussão {#sec-resultados}
+
+(Análises, gráficos e tabelas, cada um gerado por código R.
+Os gráficos virão das funções de app/R/funcoes_graficos.R.)
+
+# Conclusão {#sec-conclusao}
+
+(Síntese dos achados e considerações finais.)
+
+# Referências {.unnumbered}
+
+::: {#refs}
+:::
+
+# Declaração de uso de IA {.unnumbered}
+
+(Resumo do que está registrado em docs/ia/.)
