@@ -1,0 +1,4 @@
+# Teste de configuração
+
+Arquivo criado para verificar a integração
+entre o RStudio e o GitHub no projeto WHO-TB.
